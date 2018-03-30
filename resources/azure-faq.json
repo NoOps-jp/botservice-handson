@@ -1,0 +1,237 @@
+[
+  {
+    "question": "Azure サポートはどこで受けられますか?",
+    "answer"  : "サポートは、Microsoft Azure が提供されている市場で受けることができます。一般提供 (GA) の直後は、一部の特定のサービスを一部のリージョンで受けられないことがあります。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Microsoft はどの言語でサポートを提供していますか?",
+    "answer"  : "Microsoft は次の 9 か国語でサポートを提供しています。英語、スペイン語、フランス語、ドイツ語、イタリア語、ポルトガル語、繁体字中国語、韓国語、日本語。英語でのお問い合わせには重要度を問わず 24 時間 365 日体制で、日本語でのお問い合わせには重要度 A のみ 24 時間 365 日体制で、それぞれサポートを提供します。サポートされるそれ以外のすべての言語と重要度については、地元の営業時間中にのみサポートを提供します。営業時間外のサポートは英語でのみ提供されます (翻訳サービス付き)。自国語でのサポートをご希望のお客様は、次の営業日にお問い合わせいただくこともできます。\n",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "サポートは 24 時間 365 日体制で受けることができますか?",
+    "answer"  : "Microsoft は、英語では重要度 A および B に対して、日本語では重要度 A に対して、24 時間 365日体制でサポートを提供しています。Developer サポートは、最も低い重要度である重要度 C に含まれます。その他のサポートされる言語では、地元の営業時間中にのみサポートを提供します。営業時間外は、英語のサポート エンジニアによるサポートを受ける際に、必要に応じてオプションとして無料の翻訳サービスの利用を申し込むことができます。英語以外のサポートされる言語でサポートを受けることをご希望の場合は、次の営業日にお問い合わせいただくこともできます。\n",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "サポートに関する 地元の営業時間 とは何を指しますか?",
+    "answer"  : "北米の営業時間は、月曜日から金曜日の午前 6 時から午後 6 時 (太平洋標準時) となっています (北米の祝日を除きます)。営業時間は国によって異なります。また、地元の祝日によっても異なります。世界のほとんどの国で、営業時間は平日の午前 9 時から午後 5 時までです (土日祝は除きます)。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Microsoft Azure で発生した技術的な問題に関してサポートが必要な場合、サポート プランは必要ですか?",
+    "answer"  : "はい、1 対 1 でテクニカル サポートを受けるには、有料の Azure サポート プランが必要です。ご利用いただけるサポート プランについて詳しくは、[Azure のサポート プラン](https://azure.microsoft.com/ja-jp/support/plans/)のページをご覧ください。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "サポート プランに加入していない場合にテクニカル サポートを受けるにはどうすればよいですか?",
+    "answer"  : "質問を [Azure フォーラム](https://azure.microsoft.com/ja-jp/support/forums/)に投稿することができます。フォーラムは、Azure のユーザーやエキスパートに質問したり、情報を共有したり、解決策を見つけたりすることのできるオンライン リソースです。MSDN と Stack Overflow という 2 つのフォーラムがあります。MSDN は Microsoft がオンラインで運営しています。Stack Overflow は Microsoft と関係はなく、提携しているものではありません。*   サポート プランに加入していない場合でも、テクニカル サポートの特典を受けられる場合があります。MPN、MSDN、BizSpark など、特定のプログラムのメンバーであれば、そのプログラム限定の特典として Azure サポートを受ける資格をお持ちの場合があります。ご利用いただけるサポート オプションや特典については、サービスのご契約条件をご確認ください。\n*   Azure サブスクリプションには、追加費用なしでアクセスできるサブスクリプション管理サポート (課金、クォータの調整、アカウントの移転など) が含まれています。まず [Azure Portal](https://portal.azure.com/) でお申し込みください。また、Microsoft Azure サブスクリプションには [Azure ステータス ダッシュボード](https://status.azure.com/)と [Azure フォーラム](https://azure.microsoft.com/ja-jp/support/forums/)へのアクセスが含まれているので、問題の解決に役立ちます。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Azure サポート プランに加入していなくても受けられるサポートには何がありますか?",
+    "answer"  : "Microsoft Azure サブスクリプションには、追加費用なしでアクセスできるサブスクリプション管理サポート (課金、クォータの調整、アカウントの移転など) が含まれています。まず [Azure Portal](https://portal.azure.com/) でお申し込みください。また、Microsoft Azure サブスクリプションには [Azure ステータス ダッシュボード](https://azure.microsoft.com/ja-jp/status/)と [Azure フォーラム](https://azure.microsoft.com/ja-jp/support/forums/)へのアクセスが含まれているので、問題の解決に役立ちます。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Azure サポート プランに加入している場合に受けられるサポートには何がありますか?",
+    "answer"  : "Azure サポートには、多様なビジネス ニーズに合うように各種のプランが用意されています。有料のサポート プランに加入すると、障害対応が必要な場合に 24 時間 365 日体制でテクニカル サポートを受けることができます。サポート プランの上位レベルでは、初回の応答時間が早く、アドバイザリ サポートや構成最適化レビューにアクセスすることができ、その他の特典も提供されます。ご利用いただけるサポート プランについて詳しくは、[Azure のサポート プラン](https://azure.microsoft.com/ja-jp/support/plans/)のページをご覧ください。Azure Stack は、Standard、ProDirect および Premier サポート プランの対象になっています。\n",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "障害対応のサポートとは?",
+    "answer"  : "障害対応の問題とは、Azure サービスの使用中に経験する技術的な問題です。障害対応 という業界用語は、あるテクノロジが正常に機能しなくなり、正常運転状態に復帰するためにサポート組織の介入が必要になった場合の、そのテクノロジをサポートする作業 を指します。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Premier Advisory サポートと比較して、Professional Direct Limited Advisory サポートではどのようなサポートを提供していますか？",
+    "answer"  : "Professional Direct (ProDirect) Advisory サポートは、(1) Microsoft Azure に関して一般に公開されているベスト プラクティスのドキュメント、および (2) Azure フォーラムからの情報に基づいて、Azure サポート ガイダンスへのアクセスを提供するものです。 ProDirect のアドバイザーは、マイクロソフト関連のドキュメント、Microsoft Azure サポート エンジニア、および Microsoft Azure 製品グループへの各自のアクセスに基づいて、サポートを提供します。 ベスト プラクティス ガイダンスには、例として、以下のものがあります。*   デプロイと移行の計画\n*   ハイブリッド クラウド ソリューションの計画\n*   パフォーマンスの強化\n*   信頼性と復元可能性の向上\n*   セキュリティの強化ただし、Premier Advisory と比較して、ProDirect にはより多くの制限があります。 ProDirect アドバイザーは、設計やアーキテクチャ、コードのレビュー、アプリケーションや構成のチューニング (パフォーマンスのチューニングなど) に関する詳細な手順、仕様の検証といった、個別のお客様に合わせた詳細なアドバイザリ サポートは提供しておりません。 また、Microsoft Azure でのお客様の開発またはデプロイのためのコーディングまたは構成など (ただしこれらに限定されません) の実装アクティビティのサポートおよびオンサイトでのサポートは提供しておりません。\n",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "プレビュー (ベータ) 版のサービスや機能はどのようなものですか?",
+    "answer"  : "Microsoft では、フィードバック収集や評価の目的で Azure のプレビューやベータ、その他のリリース前の機能、サービス、ソフトウェア、リージョンにアクセスできるようにすることがあります。利用できるプレビュー版には、Azure Portal で プレビュー というタグが付けられています。また、プレビュー版は、[プレビュー ページ](https://azure.microsoft.com/ja-jp/services/preview/)や [Azure Portal のプレビュー セクション](https://azure.microsoft.com/ja-jp/services/preview/)にも掲載されます。Microsoft Azure のサービスや機能のプレビューには多くの種類があります。それらの種類ごとの大きな違いは、サービスをご利用いただける対象のお客様やプログラムへのアクセスなどです。*   パブリック プレビュー: Microsoft Azure のサブスクライバーのお客様が [Azure Portal](https://portal.azure.com/) から入手できます。これらのサービスは、どのような機能が提供される予定なのかを早いうちにご覧いただき、公開予定のサービスや機能をテストする機会を提供することを目的としています。\n*   プライベート プレビュー: 少数のお客様にのみ提供されます。お客様は Azure のエンジニアリング チームと直接やり取りをします。サービスの開発フェーズで直接かつ定期的にフィードバックを受けることを目的としています。\n*   限定プレビュー: 一定数の限られたお客様にご利用いただくプレビュー プログラムです。最大数に達すると、それ以上のユーザーはこのプログラムに参加できなくなります。Microsoft から早期に提供される Azure のプレビュー版のサービスや機能には、お客様のサービス契約で規定されているものとは異なる縮小されたサービス条件と、プレビューの追加使用条件が適用されます。プレビュー版のサービスと機能は、現状有姿のまま、瑕疵を問わない条件 で、提供可能な場合に限り提供しうる形 で提供されます。一般提供 (GA) としてリリースされた Azure サービスについて Microsoft から提供されるサービス レベル アグリーメント (SLA) や限定的保証の対象とはなりません。お客様は、Microsoft Azure の使用に適用される契約を補完するこれらの使用条件に合意することを条件に、プレビュー版を使用することができます。\n",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "プレビュー (ベータ) 版のサービスや機能は Azure サポート プランの対象になりますか?",
+    "answer"  : "プレビュー (ベータ) 版のサービスや機能に対するサポートは、パブリック プレビュー プログラム (上記の FAQ を参照) の場合にのみ提供されます。パブリック プレビュー版やベータ版以外のサービスは、フォーラムやその他のチャネルを通してサポートを受けることができます。パブリック プレビュー以外のサービスは、Azure サポート プランの対象にはなりません。一般に、Azure の有料サポート プランでは、パブリック プレビューのサービスや機能に対するテクニカル サポートが提供されます。パブリック プレビューのサポート範囲の例外と、サポート プランの対象に含まれないサービスと機能については、[こちら](https://azure.microsoft.com/ja-jp/services/preview/)を参照してください。プライベート プレビューや限定プレビューは Azure サポート プランの適用範囲には含まれず、[Azure フォーラム](https://azure.microsoft.com/ja-jp/support/forums/)を通したサポートが受けられる場合と受けられない場合があります。パブリック プレビューのサービスや機能についてのテクニカル サポートは障害対応のシナリオに限定されており、重要度 A および B の場合に英語のみによる 24 時間 365 日体制で提供されます (お客様のサポート プランに従います)。\n",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Azure サポート特典とは何ですか? その特典を利用するにはどうすればよいですか?",
+    "answer"  : "Azure のテクニカル サポートを受けるには、[有料のサポート プラン](https://azure.microsoft.com/ja-jp/support/plans/)に加入する必要があります。ただし、一部の Microsoft プログラムでは、有料のサポート プランに加入しなくても、サポート特典として Azure のテクニカル サポートを受けることができます。Azure のサポート特典が含まれるプログラムは次のとおりです。*   [MSDN と BizSpark](https://msdn.microsoft.com/msdn-subscriptions-overview)\n*   [Microsoft Partner Network](https://partner.microsoft.com/en-US/membership/core-benefits)\n*   [Signature Cloud Support](https://partner.microsoft.com/en-US/Support/signature-cloud-support)サポート特典に含まれる内容は、応答時間や送信できるリクエストの数など、上記の各プログラムによって異なります。詳しくは、上記のリンクから各プログラムの詳細をご確認ください。また、MSDN や BizSpark Plus のように、テクニカル サポートの他に、使用料の月額クレジット、無料のサービス、従量課金の割引などの Microsoft Azure 特典が提供されるプログラムもあります。詳しくは、各プログラムの詳細をご確認ください。\n",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Azure サポートにはどのように問い合わせればよいですか?",
+    "answer"  : "Azure のサポートを受けるには、オンラインで [Azure Portal](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) にアクセスし、サポート リクエストを送信するだけです。お客様をお手伝いする準備のできたサポート エンジニアからご連絡いたしますので、これが最も速い手段です。サブスクリプション管理と課金サポートへのアクセスは Microsoft Azure サブスクリプションに含まれていますが、テクニカル サポートは [Azure サポート プラン](https://azure.microsoft.com/ja-jp/support/plans/)を通して提供されます。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Azure サポートに問い合わせる方法としてオンラインでリクエストを送信することが推奨されているのはなぜですか?",
+    "answer"  : "サポート リクエストをオンラインでご送信いただけると、最大限に効果的かつ効率的に、迅速で手厚いテクニカル サポートを提供できます。リクエストの内容は詳細に及ぶことが多いため、関連する情報を電話でお知らせいただくよりも、オンラインでご提供いただくほうが簡単です。このモデルにより、非生産的な待機時間をなくし、シンプルで直感的なオンライン プロセスを使用できます。その結果、お客様の問題を、最も適任のエンジニアに迅速に伝達できます。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Azure サポートに問い合わせるための電話番号はありますか?",
+    "answer"  : "Microsoft Azure サポートに電話でお問い合わせいただいても、お客様のリクエストへの対応が速くなることはありません。[Azure Portal](https://portal.azure.com/) を通してサポートにご連絡いただいたほうが、より迅速に適切な対応をとるとができます。オンラインで要求を送信するのが難しいお客様は、地域別の[グローバル カスタマー サービス](https://support.microsoft.com/gp/customer-service-phone-numbers) センターのリストにある電話番号をご利用ください。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "サポート リクエストはどのように送信すればよいですか?",
+    "answer"  : "サポート リクエストを送信するには、[Azure Portal](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) をご利用になるのが一番手軽で迅速な方法です。メニュー バーから [サポート] を選択し、[ヘルプ + サポート] ハブを開いてください。詳細については、「[Azure サポート要求を作成する方法](https://docs.microsoft.com/api/Redirect/ja-jp/documentation/articles/how-to-create-azure-support-request/)」を参照してください。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Azure サポート特典を使用してテクニカル サポート リクエストを送信するにはどうすればよいですか?",
+    "answer"  : "Azure のテクニカル サポートを受けるには、[有料のサポート プラン](https://azure.microsoft.com/ja-jp/support/plans/)に加入する必要があります。ただし、一部の Microsoft プログラムでは、有料のサポート プランに加入しなくても、サポート特典として Azure のテクニカル サポートを受けることができます。該当する特典をお持ちのお客様は、[[Azure Portal サポート リクエストの送信]](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) から、[サポート プラン] ステップで [その他のオプション] を選択し、アクセス ID と契約 ID の情報を入力して、先に進んでください。テクニカル サポート特典をまだアクティブ化していない場合は、サポート特典を受けるプログラムに応じて、以下の手順を実行してください。Azure サポート特典をご利用いただくには、アクセス ID と契約 ID が必要です。MSDN/BizSpark - [MSDN 管理ポータル](https://msdn.microsoft.com/subscriptions/manage/)にログインし、ページの下端にあるテクニカル サポートのリンクをクリックして、サポート特典をアクティブ化します。その下にリストされるオプションは、テクニカル サポート特典を利用できる場合にのみ表示されます。MPN/SCS - [https://partner.microsoft.com/en-US/support](https://partner.microsoft.com/en-US/support) にアクセスして、MPN Regional Support Center に連絡します。そこから、MPN アカウントにサインインしてサポートに連絡します。課金とサブスクリプション管理の問題に対するサポートは、Microsoft Azure サブスクリプションに追加費用なしで組み込まれています。そのため、課金やサブスクリプションに関連した問題については、テクニカル サポート特典を利用せずに、Microsoft からサポートを受けることができます。\n",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "ポータルにログインできない場合、サポート リクエストを送信するにはどうすればよいですか?",
+    "answer"  : "Azure Portal にログインできない場合は、[https://aka.ms/AzurePortalHelp](https://aka.ms/AzurePortalHelp) にアクセスして援助を求めてください。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Azure サブスクリプションがまだなく、Azure サブスクリプションを作成しようとしてエラー メッセージが表示される場合、サポートを受けるにはどうすればよいですか?",
+    "answer"  : "サブスクリプションがまだ作成されていなくても、[Azure Portal](https://portal.azure.com/)からサブスクリプション管理サポートリクエストを開くことができます。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "サポート リクエストを送信できるのはだれですか?",
+    "answer"  : "サブスクリプションの[アカウント管理者、サービス管理者、または共同管理者](https://azure.microsoft.com/ja-jp/documentation/articles/)が、サポート リクエストを送信できます。それに加えて、サブスクリプションに対する 書き込みアクセス許可 を持つユーザー ([所有者と共同作成者](https://azure.microsoft.com/ja-jp/updates/role-based-access-control-in-azure-preview-portal/)) も、その特定のサブスクリプションに関連したサポート リクエストの送信や管理を行うことができます。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "別の担当者に、特定の Azure サブスクリプションに関するサポート リクエストを送信する権限を与えるにはどうすればよいですか?",
+    "answer"  : "サブスクリプション レベルでのカスタムの サポート リクエスト投稿者 ロールの作成方法と、サブスクリプションについてのサポート リクエストの使用を希望するすべてのユーザーにロールを付与する方法について[説明します](https://docs.microsoft.com/ja-jp/azure/azure-supportability/create-manage-support-requests-using-access-control)。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Microsoft Azure を実行しているクライアントの代理でアプリケーションを開発しています (あるいは、クライアントを支援しています)。サポートを受けるにはどうすればよいですか?",
+    "answer"  : "Azure のサポートを受けるには 2 つの方法があります。*   お客様のクライアント様のサブスクリプションに関するアカウント管理者として、そのアカウントの Azure サポート プランを購入することができます。この場合、同じアカウントで所有している他のすべてのサブスクリプションについても、同じサポート プランのサポート対象になります。あるいは、パートナー特典 (たとえば、Signature Cloud Support や MPN Support など) を使用してサポート リクエストを送信することもできます。この場合、専用の Azure サポート プランを取得する必要はありません。\n*   お客様のクライアント様のアカウントを使用してサポートを受けられます。そのためには、パートナー様 (お客様自身) が、クライアント様のサブスクリプションに対する管理者特権か所有者特権を持っている必要があります。この場合、クライアント様のサブスクリプションには、該当するサポート プランが付いている必要があります。あるいは、パートナー様の Azure サポート特典 (たとえば、Signature Cloud Support や MPN Support など) を使用してサポート リクエストを送信することもできます。この場合、専用の Azure サポート プランを取得する必要はありません。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "初回応答時間とは何ですか? サポート リクエストを送信した後、担当者から連絡が来るまでにどれほどの時間がかかりますか?",
+    "answer"  : "初回応答時間とは、お客様がサポート リクエストを送信してから、Microsoft のサポート エンジニアがお客様と連絡を取り、サポート リクエストへの対応が開始されるまでの時間です。初回応答時間は、サポート プランと、リクエストが業務に与える影響の大きさ (重要度ともいいます) に応じて異なります。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "サポート リクエストの解決までにかかる時間はどれくらいですか?",
+    "answer"  : "Microsoft は、お客様の問題をできる限り迅速に解決するようにお手伝いいたします。場合によっては、当初は業務への影響を減らしてシステム運用に対する悪影響を緩和することに努力を集中し、その後で完全な解決作業に移ることがあります。このようなわけで、Microsoft は初回応答時間についてお約束し、発生した問題の悪影響を緩和するように努力いたします。ただし、サポート リクエストの解決に関して直接的な SLA は設定しておりません。サポート リクエストのトラブルシューティングと解決にかかる時間は、問題の内容に応じて大きく左右されますが、お客様の問題をできる限り速く解決するよう尽力いたします。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Microsoft Azure 上で、Microsoft 以外のテクノロジ、またはオープン ソース ソフトウェア (OSS) を使用して作成したカスタム アプリケーションを実行している場合は、サポート プランの対象に含まれますか?",
+    "answer"  : "Microsoft は、Linux、Oracle、SAP、IBM などの (ただしこれらに限定されません)、Microsoft 以外のテクノロジを Microsoft Azure Platform で実行する機能をお客様に提供しています。Azure サポート プランでサポート対象となるすべてのシナリオに関して、Microsoft サポートは、Microsoft Azure のサービスとカスタム アプリケーションの間で問題を切り分けられるように支援します。問題の原因が Microsoft Azure のサービスまたはプラットフォームにあると判断された場合は、全面的にテクニカル サポートを提供いたします。その他すべてのシナリオの場合には、商業上合理的なサポートが提供されます。問題に対して十分な解決策を得られない場合、対象となる Microsoft 以外のソフトウェアについてご利用いただける他のサポート チャネルを紹介することがあります。\n",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "サービス停止や SIE (Service Interruption Event) の間はどのようなサポートが提供されますか?",
+    "answer"  : "SIE (サービス停止) の間は、Microsoft から頻繁かつ定期的に [Azure ステータス ダッシュボード](https://azure.microsoft.com/ja-jp/status/)に更新が提供されます。これは、最新情報を受け取る場合に最も便利な方法です。この間もサポート リクエストを送信していただければ、Microsoft では、その問題が現在の SIE に関連しているかどうか判別するお手伝いをいたします。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "根本原因分析 (RCA) を依頼するにはどのサポート プランが必要になりますか?",
+    "answer"  : "Azure のテクニカル サポート ケースを開始済みのお客様は、RCA が必要になった場合に Premiere を含むすべての Azure サポート プランで依頼を行うことができます。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Azure サポートの購入方法は?",
+    "answer"  : "Azure サポート プランは、オンラインで、またはエンタープライズ契約を介してご購入いただけます。オンラインでは、[Azure サポート プラン](https://azure.microsoft.com/ja-jp/support/plans/)のページから Developer、Standard、Professional Direct の各サポート プランを購入できます。サポート プランを購入するには、Microsoft Azure アカウントの所有者である必要があります。エンタープライズ契約 (EA) を通じて Microsoft Azure を購入した場合は、ラージ アカウント リセラー (LAR) に連絡すれば、エンタープライズ契約に Standard サポート プランまたは Professional Direct サポート プランを追加できます。Developer サポートは、エンタープライズ契約を通じてはご利用いただけません。\n",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "月額料金は 1 つの Azure プランが対象ですか? それともアカウント全体が対象になりますか?",
+    "answer"  : "Azure サポートの月額固定料金は、アカウントに含まれるサブスクリプション数やユーザー数に関係なく、1 つのアカウントが対象になります。1 つのアカウントの下にあるすべてのサブスクリプションには、同一のサポート プランが適用されます。サポート プランの付いたアカウントの下にあるいずれかのサブスクリプションに対して管理者または所有者アクセス権限を持つすべてのユーザーも、自分がアクセス権限を持つサブスクリプションを所有する特定のアカウントに対するサポートを受ける資格があります。Microsoft Azure のアカウントには、[アカウント ポータル](https://account.azure.com/Home/Index?l=ja-jp)からアクセスできます。そのポータルから、アカウントに含まれていて、サポートの対象になるサブスクリプションの一覧を確認できます。\n",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Azure サポート プランを上位プランにアップグレードするには?",
+    "answer"  : "上位プランにアップグレードするには、サブスクリプション管理 サポート リクエストを送信してください。元の Azure サポート プランに対する残りの料金は請求されず、初期コミットメントで定められた期間の残り月数には、上位プランの料金が課金されます。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Azure サポートはいつ課金されますか?",
+    "answer"  : "Azure サポート プランをオンラインで購入すると、直ちに、最初の月に対する料金が課金されます。その後、各請求サイクルの最初の日に、月額が課金されます。エンタープライズ契約 (EA) でのご購入の場合は、契約で規定された請求サイクルが適用されます。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "期間が終わるとどうなりますか?",
+    "answer"  : "6 か月の期間が終了すると、プランは自動的に更新され、次の 6 か月間について同じ Azure サポート プランが同じ支払い方法を使用して開始されます。アカウントの所有者は、[アカウント ポータル](https://account.azure.com/Home/Index?l=ja-jp)から、自動更新機能をオフにすることを選択できます。自動更新をご希望でない場合は、[アカウント ポータル](https://account.azure.com/Home/Index?l=ja-jp)にログインし、対象のサポート プランを選択してから、[更新の詳細の変更] をクリックし、自動更新の既定オプションをオフにします。\n",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Azure サポート プランを解約するにはどうすればよいですか?",
+    "answer"  : "サブスクリプションはアカウント ポータル/サブスクリプションを通じてキャンセルされます。キャンセルするサブスクリプションを選択し、[サブスクリプションのキャンセル] を選択してください。 詳細については、[https://docs.microsoft.com/ja-jp/azure/billing-how-to-cancel-azure-subscription](https://docs.microsoft.com/ja-jp/azure/billing-how-to-cancel-azure-subscription) を参照してください。Azure のサポートをご利用になるには、サブスクリプションの有効期間中のコミットメントが必要であることに注意してください。サポートをキャンセルされても、料金は日割り計算で返金されません。\n",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "エンタープライズ契約のもとで Azure サポート プランを購入するにはどうすればよいですか?",
+    "answer"  : "エンタープライズ契約 (EA) のお客様は、Azure Standard、ProDirect、Premier テクニカル サポートをリセラーからご購入いただけます。Developer サポートは、エンタープライズ契約を通じてはご利用いただけません。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Azure サポート プランを上位プランにアップグレードするには?",
+    "answer"  : "エンタープライズ契約 (EA) のお客様は、Standard から Professional Direct (提供されている場合) に移行するアップグレードをご購入いただけます。アップグレードを購入するには、ラージ アカウント リセラー (LAR) にお問い合わせください。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "複数の EA 登録を保有しています。それぞれの EA 登録に対してサポート プランが必要になりますか?",
+    "answer"  : "はい、各 EA 登録について個別のサポート プランが必要です。Azure サポート プランに 1 件加入していて、複数の EA 登録がある場合は、サポート プランが結び付けられている EA 登録のみがサポートの対象になります。なお、サポート プランに加入した 1 つの EA 登録の下に複数の Azure サブスクリプションがある場合は、これらのすべてのサブスクリプションからテクニカル サポートにアクセスできます。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "エンタープライズ契約 (EA) を通してサポートを購入しましたが、テクニカル サポートへのアクセスはまだ有効になっていません。この暫定期間中にテクニカル サポートを受けるにはどうすればよいですか?",
+    "answer"  : "EA を通してサポート プランを既にご注文いただいており、そのご注文が保留中の場合は、テクニカル サポートを受けられるよう一時的に有効にすることができます。それを行うには、Microsoft [Azure Portal](https://portal.azure.com/) から サブスクリプション管理 サポート リクエストを送信し、ご注文いただいたプラン (Standard または Professional Direct) を明記し、この問題についての説明をご記入ください。サポート エンジニアからご連絡いたします。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Premier 契約を使用して Azure サポート リクエストを提出するにはどうすればよいですか?",
+    "answer"  : "サポート ケースを作成する際、[サポート プラン] ドロップダウンに Premier 契約が表示されていることを確認してください。Premier 契約は次の方法で表示できます。Microsoft 事前一致: 多くの場合、Microsoft Premier チームはお客様の Azure サブスクリプションを Premier 契約に一致させているため、サポート ケースを作成する際は Azure Portal に Premier 契約が表示されます。アカウントの一致: Microsoft Premier Online ポータル (premier.microsoft.com) にアクセスする際に使用する Microsoft のアカウント ユーザー名とメール アドレス (例: outlook.com、live.com、Hotmail.com) と同じアカウントで Azure Portal にログインしている場合は、自動で Azure Portal に Premier 契約が表示されます。手操作入力: Azure Portal にアクセス ID と契約 ID を入力すれば、Premier 契約を Azure アカウントにリンクすることができます。Azure Portal で [ヘルプとサポート] を選択し、左側のメニューにある [サポート契約をリンクする] を選択してください。これは 1 回限りのプロセスです。入力した Premier 契約情報はお客様の Azure アカウントに保存され、お客様が所有者特権または管理者特権を持っているすべてのサブスクリプションからアクセス可能になります。アクセス ID と契約 ID の情報が不明の場合は、担当のテクニカル アカウント マネージャー (TAM) にお問い合わせください。Premier のお客様は、引き続き [Microsoft Premier Online](https://premier.microsoft.com/) ポータルか電話チャネルを使用してサポート リクエストを送信いただけますが、Azure Portal を使用いただくと次のようなさまざまなメリットがあります。*   必要なデータ (アカウント、サブスクリプション ID など) を自動でキャプチャし、診断を実行\n*   自動でキャプチャしたデータを使用することで、より迅速な解決が可能\n*   重要度 A または 1 のケースをオンラインで作成する機能\n*   直面している問題に関してコンテキスト内でのヘルプを提供",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Premier サポート契約を購入するにはどうすればよいですか?",
+    "answer"  : "Premier サポートのご購入については、担当のマイクロソフト アカウント マネージャーにお問い合わせください。問い合わせ先が不明の場合は、[Premier お問い合わせフォーム](https://www.microsoft.com/en-us/microsoftservices/contact.aspx)でリクエストを送信してください。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "既に Premier 契約を結んでいます。この契約をもっと活用する方法について知りたいのですが?",
+    "answer"  : "お持ちの Premier サポート契約を活用するためのオプションや、お持ちの Premier 契約を変更して Azure のニーズに合わせるためのオプションについては、担当のテクニカル アカウント マネージャー (TAM) にお問い合わせください。TAM の名前と連絡先情報は、[Microsoft Premier Online](https://premier.microsoft.com/) ポータルでご確認いただけます。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Premier 契約の Azure Rapid Response とは何ですか?",
+    "answer"  : "Premier の Azure Rapid Response は、重要なワークロードを Microsoft Azure で実行している企業向けに上級の機能パッケージを提供する、Premier サポートのアドオンです。Azure Rapid Response では、お客様の組織のインフラストラクチャとアプリケーション環境を理解しているサポート エンジニアのチームを編成し、スケーラビリティを向上し不必要なダウンタイムを避けるための予防処置サービスと確認作業を実施します。また、Azure サポート リクエストに対して 15 分以内の初期応答時間を 24 時間 365 日体制で提供します。Premier Rapid Response は、現在、英語でのみ提供しております。\n",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "パートナーは、Premier Support for Partner (PSfP) 契約を Azure サポートに使用できますか?",
+    "answer"  : "はい、Premier Support for Partners (PSfP) 契約を結んだパートナー様は、自社の内部使用のために Azure サポート特典をご利用いただけます。また、パートナー様のクライアント様を支援するためにサポートを受けることもできます。ただしその場合は、クライアント様の Azure サブスクリプションに対する管理者または所有者のアクセス権がパートナー様に委任されている必要があります。Premier 契約を使用してサポート リクエストを送信する方法については、前述の FAQ をご覧ください。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "Premier Cloud Service Dependency Map (CSDM) とは何ですか?",
+    "answer"  : "Cloud Service Dependency Map (CSDM) は、アップストリーム側とダウンストリーム側の両方でクラウド サービスに影響を与えることのあるクリティカルなシステム依存性について説明した資料です。この資料は、問題が起きる前にその可能性について IT スタッフが認識し、問題が起きたときにより迅速に問題を解決できるようにするために役立ちます。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "いくつかのテクニカル サポート リクエストを利用できる特典の付いた Microsoft プラン (MSDN、BizSpark、TechNet など) を持っています。この特典を Azure のテクニカル サポートに使用できますか?",
+    "answer"  : "はい。これらの特典を受ける資格があるお客様は、[Visual Studio サブスクリプション](https://msdn.microsoft.com/subscriptions) ポータルでサポート アクセスをアクティブ化すると、利用できるようになります。Azure のテクニカル サポートを受けるには、[有料のサポート プラン](https://azure.microsoft.com/ja-jp/support/plans/)に加入する必要があります。ただし、一部の Microsoft プログラムでは、有料のサポート プランに加入しなくても、サポート特典として Azure のテクニカル サポートを受けることができます。該当する特典をお持ちのお客様は、[[Azure Portal サポート リクエストの送信]](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) から、[サポート プラン] ステップで [その他のオプション] を選択し、アクセス ID と契約 ID の情報を入力して、先に進んでください。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "MPN パートナーなのですが、MPN のサポート特典を使用して Azure テクニカル サポート リクエストを送信できますか?",
+    "answer"  : "はい。そのような特典の対象となっているお客様は、それを利用できます。お持ちのサポート特典の詳細については、[MPN ポータル](https://partner.microsoft.com/en-US/support)をご確認ください。該当する特典をお持ちのお客様は、Azure Portal からサポート リクエストを送信できます。その際、[サポート プラン] ステップで [その他のオプション] を選択し、アクセス ID と契約 ID の情報を入力して、先に進んでください。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  },
+  {
+    "question": "MPN パートナーは自社のオンプレミス MPN サポート特典を使用して Azure テクニカル サポートを受けられますか?",
+    "answer"  : "はい。MPN パートナー様は、他の Microsoft 製品に対して所有している同じ MPN 特典を使用して Azure テクニカル サポートを受けることができます。[Azure Portal](https://portal.azure.com/) から新しいサポート リクエストを送信するには、サポート リクエストのステップ 4 で [追加のサポート オプション] を選択し、アクセス ID と契約 ID の情報を入力して、先に進んでください。",
+    "source"  : "https://azure.microsoft.com/ja-jp/support/faq/"
+  }
+]
