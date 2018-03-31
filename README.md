@@ -31,7 +31,8 @@ Azure Search による高度な検索エクスペリメントを活用して、�
 |[02_Create_AzureSearch.md](02_Create_AzureSearch.md)|Azure ポータルで Azure Search を作成します。|
 |[03_Create_AzureBotService.md](03_Create_AzureBotService.md)|Azure ポータルで Azure Bot Service を作成します。|
 |[04_Debug_EchoBot.md](04_Debug_EchoBot.md)|Azure ポータルからソースコードをダウンロードし、デバッグできるようにします。|
-|[05_Implement_Search.md](05_Implemtnt_Search.md)|Azure Serach で検索する機能を実装します。|
+  
+|[05_Implement_Search.md](05_Implement_Search.md)|Azure Serach で検索する機能を実装します。|
 |[06_Publish](06_Publish)|開発したチャットボットを Azure Bot Service 上に発行し、利用できるようにします。|
 |[チャレンジ](99_Challenge.md)|時間が余った方は、課題にチャレンジしましょう！|
 
