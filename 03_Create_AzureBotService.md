@@ -1,5 +1,9 @@
 # 03. Azure Bot Service の作成
 
+> ### 注意: 当コンテンツは、Bot Builder v3.14 をベースに作られています。
+>
+> ### 2018 年 9 月より GA した Bot Builder V4 と互換はありません。利用する Bot Builde バージョンにはご注意ください。
+
 Bot Framework (C#)をベースに作られ、Azure 上にホストする Azure Bot Service を作成します。
 
 ## Web App Bot の作成
@@ -15,7 +19,7 @@ Azure ポータルの左上にある **リソースの作成** をクリック�
 - **App Service プラン/場所**: 任意のリソース（新規作成時は料金プランはフリーがあります）
 - **Azure Storage**: 任意のリソース（新規作成で問題なし）
 - **Application Insights**: オン
-- **Application Insightsの場所**: 任意の場所
+- **Application Insights の場所**: 任意の場所
 - **Microsoft アプリ ID とパスワード**: アプリ ID とパスワードの自動作成
 
 ## 動作確認
@@ -26,13 +30,11 @@ Azure ポータルで、作成した Web アプリ ボット のリソースを�
 
 ![Web App Bot - 動作確認](images/03-1.png)
 
-
 ## ソースコードのダウンロード
 
 次のワークショップの準備として、生成されたプログラムをダウンロードします。
 
 Azure ポータルで、作成した Web アプリ ボット のリソースを開き、**ビルド** を開いて、「ソースコードをダウンロード」にあるリンクから zip ファイルをダウンロードします。
 ダウンロードが完了したら、zip を展開しましょう。
-
 
 [Back](02_Create_AzureSearch.md) | [Next](04_Debug_EchoBot.md)
